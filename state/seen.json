@@ -142,5 +142,29 @@
     "title": "Connecticut AG: Rights and Requirements Related to New and Updated Privacy Laws (facial recognition signage, PA 26-64, effective Oct 1 2026)",
     "date": "2026-09-16",
     "edition": "2026-10-05"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+    "title": "SynthID Detector opened to the public",
+    "date": "2026-10-07",
+    "edition": "2026-10-12"
+  },
+  {
+    "url": "https://www.verkada.com/updates/october-2026-product-updates/",
+    "title": "Verkada October 2026 Product Updates (Catalyst/MCP, AI search model, CTB63 thermal camera)",
+    "date": "2026-10-08",
+    "edition": "2026-10-12"
+  },
+  {
+    "url": "https://developer.arm.com/community/arm-community-blogs/b/ai-blog/posts/how-arm-and-google-are-improving-ml-drift-performance-on-arm-gpus",
+    "title": "How Arm and Google are improving ML Drift performance on Arm GPUs",
+    "date": "2026-10-08",
+    "edition": "2026-10-12"
+  },
+  {
+    "url": "https://samsung.gadgethacks.com/news/samsung-exiting-exynos-auto-chip-business-whats-confirmed/",
+    "title": "Samsung exiting Exynos Auto chip business (rumoured, via Munhwa Ilbo/SamMobile)",
+    "date": "2026-10-08",
+    "edition": "2026-10-12"
   }
 ]

@@ -184,5 +184,41 @@
     "title": "DJI Dock 4: DJI's first battery-swapping dock",
     "date": "2026-10-14",
     "edition": "2026-10-19"
+  },
+  {
+    "url": "https://www.synaptics.com/company/news/synaptics-astra-sr200-series-multimodal-edge-ai-processors",
+    "title": "Synaptics Launches the xMCU Era with the Astra SR200 Series of Multimodal Edge AI Processors",
+    "date": "2026-10-20",
+    "edition": "2026-10-26"
+  },
+  {
+    "url": "https://www.synaptics.com/company/news/synaptics-and-google-research-expand-the-coralboard-ecosystem",
+    "title": "Synaptics and Google Research Expand the Coralboard Ecosystem",
+    "date": "2026-10-20",
+    "edition": "2026-10-26"
+  },
+  {
+    "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+    "title": "Unifying Edge AI: How Coral NPU's open standard brings portable, energy-viable intelligence from model to silicon",
+    "date": "2026-10-20",
+    "edition": "2026-10-26"
+  },
+  {
+    "url": "https://www.sony-semicon.com/en/news/2026/2026102201.html",
+    "title": "Sony Semiconductor Solutions Announces 1mm Square Image Sensor (IMX742) for Medical Single-Use Endoscopes",
+    "date": "2026-10-22",
+    "edition": "2026-10-26"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+    "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+    "date": "2026-10-21",
+    "edition": "2026-10-26"
+  },
+  {
+    "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+    "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+    "date": "2026-10-20",
+    "edition": "2026-10-26"
   }
 ]

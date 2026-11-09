@@ -4,6 +4,7 @@ An independent weekly briefing on the multimedia silicon and on-device AI beat: 
 
 ## Editions
 
+- [9 November 2026](briefings/2026-11-09.md) — week of 2–8 November 2026
 - [2 November 2026](briefings/2026-11-02.md) — week of 26 October–1 November 2026
 - [26 October 2026](briefings/2026-10-26.md) — week of 19–25 October 2026
 - [19 October 2026](briefings/2026-10-19.md) — week of 12–18 October 2026

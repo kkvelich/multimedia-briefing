@@ -256,5 +256,65 @@
     "title": "XREAL AURA: Wired XR glasses to watch, work, and play (debuts Qualcomm Snapdragon Reality Elite)",
     "date": "2026-10-28",
     "edition": "2026-11-02"
+  },
+  {
+    "url": "https://enterprise.dji.com/news/detail/matrice-5t-release",
+    "title": "DJI ships the Matrice 5T, an enterprise drone fusing thermal, visible, radar and lidar sensing on-board",
+    "date": "2026-11-05",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/",
+    "title": "Apple's redesigned Health app runs on-device computer vision on iPhone camera input for movement evaluations",
+    "date": "2026-11-03",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads",
+    "title": "Google ships Gemini Nano 4 and ML Kit on-device Agentic API",
+    "date": "2026-11-05",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://developer.android.com/blog/posts/build-android-xr-devices-tools",
+    "title": "Google stabilizes the Android XR developer platform (Jetpack SceneCore, ARCore for Jetpack XR, XR Runtime, XR Engine Hub)",
+    "date": "2026-11-06",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+    "title": "NVIDIA ships DLSS 5 3D-Guided Neural Rendering in Hogwarts Legacy via GeForce NOW cloud streaming",
+    "date": "2026-11-05",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://developer.arm.com/community/arm-community-blogs/b/ai-blog/posts/bringing-bobium-brawlers-to-android-with-arm-sme2",
+    "title": "Arm case study: Bobium Brawlers runs generative AI on CPU via SME2, not GPU or NPU",
+    "date": "2026-11-04",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://www.mediatek.com/press-room/mediatek-and-ericsson-achieve-worlds-first-successful-multi-vendor-pre-6g-joint-field-trial-with-t-mobile-us",
+    "title": "MediaTek and Ericsson complete multi-vendor pre-6G field trial on T-Mobile's network",
+    "date": "2026-11-02",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://www.intel.com/content/www/us/en/newsroom/opinion/cognitive-cities-how-ai-drives-active-urban-decisions.html",
+    "title": "Intel VP makes the case for city-wide edge AI, citing a live traffic-camera deployment",
+    "date": "2026-11-02",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://newsroom.arm.com/partner_news",
+    "title": "Arm and ECARX sign MoU to explore AI computing platforms for mobility",
+    "date": "2026-11-02",
+    "edition": "2026-11-09"
+  },
+  {
+    "url": "https://www.gov.uk/government/consultations/legal-framework-for-using-facial-recognition-in-law-enforcement/outcome/new-legal-framework-for-law-enforcement-use-of-biometrics-facial-recognition-and-similar-technologies-government-response-to-the-consultation-acces",
+    "title": "UK government commits to new statutory framework for police use of facial recognition",
+    "date": "2026-11-04",
+    "edition": "2026-11-09"
   }
 ]

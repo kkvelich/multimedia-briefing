@@ -316,5 +316,29 @@
     "title": "UK government commits to new statutory framework for police use of facial recognition",
     "date": "2026-11-04",
     "edition": "2026-11-09"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "title": "NVIDIA ships Isaac Lab 3.0 and introduces VABAR robot-manipulation benchmark at CoRL",
+    "date": "2026-11-09",
+    "edition": "2026-11-16"
+  },
+  {
+    "url": "https://newsroom.arm.com/news/arm-cortex-m42",
+    "title": "Arm announces Cortex-M42 edge-AI CPU core",
+    "date": "2026-11-10",
+    "edition": "2026-11-16"
+  },
+  {
+    "url": "https://www.newsshooter.com/2026/11/04/blackmagic-design-davinci-resolve-21-2/",
+    "title": "Blackmagic Design ships DaVinci Resolve 21.2",
+    "date": "2026-11-04",
+    "edition": "2026-11-16"
+  },
+  {
+    "url": "https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities",
+    "title": "Otter.ai announces 27-language multilingual expansion",
+    "date": "2026-11-10",
+    "edition": "2026-11-16"
   }
 ]
